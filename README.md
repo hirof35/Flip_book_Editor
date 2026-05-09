@@ -63,3 +63,4 @@ animate: root.after を利用した再帰的呼び出しによる、非ブロッ
 MIT License
 
 「静止画に命を吹き込む、最短のルートを。」
+<img width="782" height="711" alt="スクリーンショット 2026-05-09 165634" src="https://github.com/user-attachments/assets/19e3ee4c-017e-4185-8ac2-47d54ffb3da8" />
